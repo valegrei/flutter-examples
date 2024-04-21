@@ -1,4 +1,4 @@
-import 'package:ble_app/pages/HomePage.dart';
+import 'package:ble_app/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
